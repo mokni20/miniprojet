@@ -36436,7 +36436,8 @@ div.tagsinput span.tag a {
 }
 
 .content-wrapper {
-  background-image: linear-gradient(to right, #f9d423 0%, #f95c19 100%);
+  background-color:#FEF9EC ;
+ /* background-image: linear-gradient(to right, #f9d423 0%, #f95c19 100%);*/
   padding: 2.375rem 2.375rem;
   width: 100%;
   -webkit-flex-grow: 1;
